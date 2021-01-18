@@ -1,0 +1,2 @@
+traceroute slash16.org
+traceroute -n slash16.org (for ip only)
