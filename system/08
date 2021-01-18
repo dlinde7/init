@@ -1,0 +1,2 @@
+The authorized_keys file contains the the RSA keys of systems that are authorized to connect via SSH.
+The location is ~/.ssh/authorized_keys

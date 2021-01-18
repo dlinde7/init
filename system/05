@@ -1,0 +1,2 @@
+service ssh
+service ssh status (to check its current state)

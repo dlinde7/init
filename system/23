@@ -1,0 +1,9 @@
+To connect with ssh use command - ssh *username@**ip
+
+*userusernameand **your host ip
+
+To connect with graphical session use commad - ssh -x *username@**ip
+
+*userusernameand **your host ip
+
+Thisalso works for new users

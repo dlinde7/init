@@ -1,0 +1,3 @@
+sudo kill *process_ID
+
+*actual background ID of process you want to end
